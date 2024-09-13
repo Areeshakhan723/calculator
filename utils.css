@@ -1,0 +1,23 @@
+.container {
+  border-radius: 1rem;
+}
+
+.max-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+  background-color: lightgray;
+}
+
+.flex-col {
+  flex-direction: column;
+  align-items: center;
+}
+
+.row {
+  margin: 8px;
+}
+
+
